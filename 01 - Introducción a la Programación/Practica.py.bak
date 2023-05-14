@@ -1,4 +1,4 @@
 print('Hola Mundo!')
-a = 20
+a = 55
 while a > 0:
     print(a)
