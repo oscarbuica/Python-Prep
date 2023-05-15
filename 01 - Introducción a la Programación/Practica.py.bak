@@ -1,4 +1,4 @@
 print('Hola !')
-a = 70  
+a = 75 
 while a > 0:
     print(a)
