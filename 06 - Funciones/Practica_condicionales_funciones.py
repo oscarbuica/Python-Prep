@@ -28,7 +28,8 @@ def suma(num1, num2):
 
 print(suma(20, 30))
 print(suma(5, 7))    
-print(suma(10, 12))   
+print(suma(10, 12)) 
+  
 
 
  
